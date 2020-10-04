@@ -4,6 +4,7 @@ Bitly Api v4 Kullanarak Oluşturduğum Proje
 # Özellikler
 - Hızlıca Link Kısaltabilirsiniz
 - Kısalttığınız Linklerin Listesine Ulaşabilirsiniz.
+- Kısalttığınız Linklerin Başlıklarını Güncelleyebilirsiniz.
 - Linklerinize Ait Son 30 Gün Click Verilerine Ulaşabilirsiniz.
 
 # Kurulum
