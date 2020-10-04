@@ -16,4 +16,4 @@ $authorization = "Authorization: Bearer your token";
 ```php
 $authorization = "Authorization: Bearer 955eee0aaaa8e504088dda3b743c6c2355c62442";
 ```
-![alt text](https://github.com/[seyranik]/[Bitly]/blob/[screen]/list.png?raw=true)
+![alt text](https://github.com/seyranik/Bitly/blob/screen/list.png?raw=true)
