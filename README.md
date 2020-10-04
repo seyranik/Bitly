@@ -17,4 +17,4 @@ $authorization = "Authorization: Bearer your token";
 $authorization = "Authorization: Bearer 955eee0aaaa8e504088dda3b743c6c2355c62442";
 ```
 ![Kısa Linkleri Listeleme Ekranı](screen/list.png?raw=true "Kısa Linkleri Listeleme Ekranı")
-Kısa Linkleri Listeleme Ekranı
+<center>Kısa Linkleri Listeleme Ekranı</center>
