@@ -1,5 +1,5 @@
 <?php 
-$authorization = "Authorization: Bearer 955eee00cd08e504088dda3b743c6c2355c62442";
+$authorization = "Authorization: Bearer your token";
 if (basename($_SERVER['PHP_SELF']) == 'create.php')
 {
     if ($_POST)
