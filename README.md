@@ -1,5 +1,5 @@
 # Bitly
-Bitly Api v4 Kullanarak Oluşturduğum Proje
+Bitly Api v4 Kullanarak Oluşturduğum Proje İle Linklerinizi Kendi Sitesiniz Üzerinden Kolayca Oluşturup Yönetebilirsiniz.
 
 # Özellikler
 - Hızlıca Link Kısaltabilirsiniz
