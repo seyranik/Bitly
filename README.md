@@ -16,8 +16,9 @@ $authorization = "Authorization: Bearer your token";
 ```php
 $authorization = "Authorization: Bearer 955eee0aaaa8e504088dda3b743c6c2355c62442";
 ```
-
-<img width=“964” alt=“java 8 and prio java 8  array review example” src=“https://github.com/jaimehernan95/arrayReview-java/blob/master/images/%20arrayExample.png 23”>
-
-![Kısa Linkleri Listeleme Ekranı](screen/list.png?raw=true "Kısa Linkleri Listeleme Ekranı")
-<b>Kısa Linkleri Listeleme Ekranı</b>
+# Ekran Görüntüleri
+![](screen/dashboard.png?raw=true "")
+![](screen/create.png?raw=true "")
+![](screen/list.png?raw=true "")
+![](screen/stats.png?raw=true "")
+![](screen/update.png?raw=true "")
